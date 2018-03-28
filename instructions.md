@@ -8,7 +8,7 @@
 * [x] Add sign-in route and (serves as our splash page)
 * [x] Add SASS files: resets, typography, colors
 * [x] Add icon fonts
-* [x] Deploy
+* [x] [Firebase deploy link](https://votes-frontend-app.firebaseapp.com/#/)
 
 ### List topics
 

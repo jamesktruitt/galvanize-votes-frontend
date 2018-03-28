@@ -8,7 +8,7 @@
 * [x] Add sign-in route and (serves as our splash page)
 * [x] Add SASS files: resets, typography, colors
 * [x] Add icon fonts
-* [ ] Deploy
+* [x] Deploy
 
 ### List topics
 

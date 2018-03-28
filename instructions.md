@@ -2,12 +2,12 @@
 
 ## Deploy a Galvanize Vote Splash page
 
-* [ ] Generate a vue app
-* [ ] Clean up files
-* [ ] Add `.env` and `node_modules` to `.gitignore`
-* [ ] Add sign-in route and view
-* [ ] Add SASS files: resets, typography, colors
-* [ ] Add icon fonts
+* [x] Generate a vue app
+* [x] Clean up files
+* [x] Add `.env` and `node_modules` to `.gitignore`
+* [x] Add sign-in route and (serves as our splash page)
+* [x] Add SASS files: resets, typography, colors
+* [x] Add icon fonts
 * [ ] Deploy
 
 ### List topics
